@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/19.dir/main.cpp.o  -o 19 -rdynamic 

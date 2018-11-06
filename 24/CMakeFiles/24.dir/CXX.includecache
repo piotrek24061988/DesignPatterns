@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piotr/DesignPatterns/24/main.cpp
+iostream
+-
+algorithm
+-
+list
+-
+set
+-
+array
+-
+numeric
+-
+

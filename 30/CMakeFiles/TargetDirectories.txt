@@ -1,0 +1,3 @@
+/home/piotr/DesignPatterns/30/CMakeFiles/edit_cache.dir
+/home/piotr/DesignPatterns/30/CMakeFiles/30.dir
+/home/piotr/DesignPatterns/30/CMakeFiles/rebuild_cache.dir

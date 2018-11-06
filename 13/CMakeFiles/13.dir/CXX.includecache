@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piotr/DesignPatterns/13/main.cpp
+iostream
+-
+memory
+-
+map
+-
+functional
+-
+string
+-
+cstdlib
+-
+fstream
+-
+vector
+-
+

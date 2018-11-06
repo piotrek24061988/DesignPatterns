@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/23.dir/main.cpp.o  -o 23 -rdynamic -lpthread -lboost_system -lboost_thread 

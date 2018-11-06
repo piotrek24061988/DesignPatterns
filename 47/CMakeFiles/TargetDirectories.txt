@@ -1,0 +1,3 @@
+/home/piotr/DesignPatterns/47/CMakeFiles/edit_cache.dir
+/home/piotr/DesignPatterns/47/CMakeFiles/47.dir
+/home/piotr/DesignPatterns/47/CMakeFiles/rebuild_cache.dir

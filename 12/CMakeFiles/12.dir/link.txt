@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/12.dir/main.cpp.o  -o 12 -rdynamic -lpthread -lboost_system -lboost_thread -lboost_serialization 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piotr/DesignPatterns/37/main.cpp
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+memory
+-
+boost/lexical_cast.hpp
+-
+
